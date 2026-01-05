@@ -20,8 +20,8 @@ export default function Education() {
         {/* Another Example */}
         <div className="p-6 bg-white shadow rounded-xl border-l-4 border-blue-600">
           <h3 className="text-2xl font-bold">Higher Secondary Certificate (HSC)</h3>
-          <p className="text-gray-700 mt-1">Your College Name</p>
-          <p className="text-gray-500">Year: XXXX</p>
+          <p className="text-gray-700 mt-1">Cantonemnet Public School & College,Lalmonirhat</p>
+          <p className="text-gray-500">Year: 2020</p>
         </div>
 
       </div>
