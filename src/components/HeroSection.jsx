@@ -44,9 +44,9 @@ export default function Hero() {
 
         {/* Social Links */}
         <div className="flex gap-6 mt-8 text-2xl justify-center md:justify-start">
-          <a href="https://www.linkedin.com/in/abu-said-mohammad-readwanul/" className="hover:text-blue-600 transition"><FaLinkedin/></a>
-          <a href="https://github.com/readwanul390" className="hover:text-blue-600 transition"><FaGithub /></a>
-          <a href="https://www.facebook.com/readwan.547" className="hover:text-blue-600 transition"><FaFacebook /></a>
+          <a href="https://www.linkedin.com/in/abu-said-mohammad-readwanul/" className="hover:text-blue-600 transition" target="_blank"><FaLinkedin/></a>
+          <a href="https://github.com/readwanul390" className="hover:text-blue-600 transition" target="_blank"><FaGithub /></a>
+          <a href="https://www.facebook.com/readwan.547" className="hover:text-blue-600 transition" target="_blank"><FaFacebook /></a>
           <a href="https://www.instagram.com/sayedreadwanhridoy" className="hover:text-blue-600 transition"><FaInstagramSquare /></a>
         </div>
       </div>
