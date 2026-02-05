@@ -47,7 +47,7 @@ export default function Hero() {
           <a href="https://www.linkedin.com/in/abu-said-mohammad-readwanul/" className="hover:text-blue-600 transition" target="_blank"><FaLinkedin/></a>
           <a href="https://github.com/readwanul390" className="hover:text-blue-600 transition" target="_blank"><FaGithub /></a>
           <a href="https://www.facebook.com/readwan.547" className="hover:text-blue-600 transition" target="_blank"><FaFacebook /></a>
-          <a href="https://www.instagram.com/sayedreadwanhridoy" className="hover:text-blue-600 transition"><FaInstagramSquare /></a>
+          <a href="https://www.instagram.com/sayedreadwanhridoy" className="hover:text-blue-600 transition" target="_blank"><FaInstagramSquare /></a>
         </div>
       </div>
 
